@@ -9,3 +9,4 @@ hangman is cool
 zoologist
 quadruplets
 the sky is blue
+python is the best language
